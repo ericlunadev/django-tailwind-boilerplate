@@ -1,6 +1,6 @@
 # Django Tailwind Boilerplate
 A repo with the necessary boilerplate to run Django with TailwindCSS without Node.
-You can find a detailed description to set this up by yourself on [this blog post](ericluna.dev/blog).
+You can find a detailed description to set this up by yourself on [this blog post](https://ericluna.dev/blog/configuring-the-ultimate-django-tailwind-experience-without-node).
 
 ## Instalation
 ### - Download the Standalone CLI:
